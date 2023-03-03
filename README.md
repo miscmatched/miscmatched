@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/miscmatched/miscmatched/main/power.gif" />
 
+![screenshot](https://raw.githubusercontent.com/miscmatched/miscmatched/main/power.gif)
+
 <!--
 **miscmatched/miscmatched** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
